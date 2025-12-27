@@ -30,3 +30,6 @@ Tools & Technologies
 Summary  
 The Car Insurance Claim Prediction project demonstrates how data mining and machine learning can be applied to real-world problems.  
 It delivers a practical solution for predicting claim outcomes, supporting better decision-making, and improving the overall efficiency of insurance operations.
+
+Demo
+https://github.com/user-attachments/assets/8c2c611e-317a-4211-aff1-e099ad3861bc
