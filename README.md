@@ -85,7 +85,8 @@ cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-  
+```
+ 
 Summary  
 The Car Insurance Claim Prediction project demonstrates how data mining and machine learning can be applied to real-world problems.  
 It delivers a practical solution for predicting claim outcomes, supporting better decision-making, and improving the overall efficiency of insurance operations.
