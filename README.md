@@ -1,4 +1,4 @@
-🚗 Car Insurance Claim Prediction
+#🚗 Car Insurance Claim Prediction
 
 A full-stack machine learning application that predicts whether a car insurance policyholder is likely to make a claim. This project helps insurance companies assess risk, reduce fraudulent claims, and make informed, data-driven decisions.
 
